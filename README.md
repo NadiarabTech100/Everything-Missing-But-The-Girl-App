@@ -9,12 +9,10 @@ An app designed to empower women and solo travelers to travel safely a user-focu
 
 ---
 
-## Features
+## Key Features
 
 - **Emergency Alarm**: A loud alarm to deter threats, triggered by a button and notifies your emergency contact that you require assistance
-- **Danger Zone Mapping**: Displays static markers for high-crime areas.
-- **Safe Zones Finder**: Identifies nearby areas that could be considered safe spots.
-- ** Locating Police Stations**: This feature helps to locate the nearest police station in case there is an issue.
+- **Danger Zone Mapping**: Displays static markers for high-crime areas and low WiFi areas.
 - **Safety Guidance Page**: Pre-journey checklist and advice for safe travel. 
 
 ---
@@ -94,34 +92,32 @@ An app designed to empower women and solo travelers to travel safely a user-focu
 ### **Feature Descriptions**
 
 1. **Crime Hotspot Mapping**  
-   Alerts users to high-crime areas and helps avoid unsafe neighborhoods.
+   Alerts users to high-crime areas and helps avoid unsafe neighborhoods and areas.
 
 2. **Safe Zone Finder**  
-   Identifies well-lit and busy public areas like cafes, malls, or train stations for safe waiting spots.
+   Identifies well-lit and busy public areas like cafes, malls, or train stations for safe waiting spots in case the traveller requires time to find their location. 
 
 3. **Emergency Alarm**  
-   A loud, accessible alarm to deter threats and notify emergency contacts.
+   A loud, accessible alarm to deter threats and notify emergency contacts through sms immediately of a possible threat to person or property. 
 
 4. **Police Station Locator** (Upgrade)  
    Shows nearby police stations for immediate help during emergencies.
 
 5. **Bus and Train Finder** (Upgrade)  
-   Helps users locate the nearest public transportation options for quicker navigation.
+   Helps users locate the nearest public transportation options in cases where travellers are compeletley lost. 
 
 6. **Advice & Guidance for Solo Travelers** (Upgrade)  
-   Provides tailored safety tips, including:
+   Provides tailored safety tips such as devices to have and general tips:
    - Packing essentials (e.g., power bank, mobile data).
    - Avoiding isolated areas like industrial estates or alleys.
    - Wearing practical footwear like trainers for ease of travel.
 
-7. **Go Home Navigation**  
-   Quick navigation to a trusted location with real-time updates about delays or disruptions.
+7. **Real-Time travel distruption to public transport services & Adverse weather conditons** (Upgrade)  
+   Informs users of immediate travel delays on trains and buses.
+  This also includes weather conditons preventing travellers from reaching their destinations and any road closures. 
 
-8. **Real-Time Alerts** (Upgrade)  
-   Informs users of immediate safety concerns, such as road closures, protests, or crime events in their vicinity.
-
-9. **Reduced WiFi Notification**  
-   Alerts users to areas with limited WiFi connectivity, allowing them to prepare in advance.
+8. **Reduced WiFi Notification**  
+   Alerts users to areas with limited WiFi connectivity to enable better journey planning for the travller. 
 
 
 
