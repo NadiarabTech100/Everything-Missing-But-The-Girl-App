@@ -76,11 +76,55 @@ An app designed to empower women and solo travelers to travel safely a user-focu
 
 ---
 
-## Future Enhancements
+## Features Comparison
 
-- **Real-time alerts for high-crime areas.**  
-- **Integration of peak safety times.**  
-- **Advanced UI/UX design** for a polished app experience.
+| Feature                        | Everything Missing But The Girl | Other Apps  |
+|--------------------------------|---------------------------------|-------------|
+| **Crime Hotspot Mapping**       | ✅                              | ❌           |
+| **Safe Zone Finder**            | ✅                              | ❌           |
+| **Emergency Alarm**             | ✅                              | ✅           |
+| **Police Station Locator**      | ✅ (Upgrade)                    | ❌           |
+| **Bus and Train Finder**        | ✅ (Upgrade)                    | ❌           |
+| **Advice & Guidance for Solo Travelers** | ✅ (Upgrade)            | ❌           |
+| **Go Home Navigation**          | ✅                              | ❌           |
+| **Real-Time Alerts**            | ✅ (Upgrade)                    | ❌           |
+| **Reduced WiFi Notification**   | ✅                              | ❌           |
+
+---
+
+### **Feature Descriptions**
+
+1. **Crime Hotspot Mapping**  
+   Alerts users to high-crime areas and helps avoid unsafe neighborhoods.
+
+2. **Safe Zone Finder**  
+   Identifies well-lit and busy public areas like cafes, malls, or train stations for safe waiting spots.
+
+3. **Emergency Alarm**  
+   A loud, accessible alarm to deter threats and notify emergency contacts.
+
+4. **Police Station Locator** (Upgrade)  
+   Shows nearby police stations for immediate help during emergencies.
+
+5. **Bus and Train Finder** (Upgrade)  
+   Helps users locate the nearest public transportation options for quicker navigation.
+
+6. **Advice & Guidance for Solo Travelers** (Upgrade)  
+   Provides tailored safety tips, including:
+   - Packing essentials (e.g., power bank, mobile data).
+   - Avoiding isolated areas like industrial estates or alleys.
+   - Wearing practical footwear like trainers for ease of travel.
+
+7. **Go Home Navigation**  
+   Quick navigation to a trusted location with real-time updates about delays or disruptions.
+
+8. **Real-Time Alerts** (Upgrade)  
+   Informs users of immediate safety concerns, such as road closures, protests, or crime events in their vicinity.
+
+9. **Reduced WiFi Notification**  
+   Alerts users to areas with limited WiFi connectivity, allowing them to prepare in advance.
+
+
 
 ---
 ## **Safety First Women Travelling Alone**
@@ -102,10 +146,10 @@ A pre-journey checklist equips users with essentials like a power bank and mobil
 Designed to be lightweight and easy to use, making it perfect for travelers unfamiliar with their surroundings.  
 Supports single women in navigating unfamiliar areas confidently without relying on others.
 
-
-
-
----
+## Future Enhancements
+- Real-time alerts for high-crime areas.
+- Integration of peak safety times.
+- Advanced UI/UX design for a polished app experience.
 
 
 
