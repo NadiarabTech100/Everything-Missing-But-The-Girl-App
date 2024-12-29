@@ -77,23 +77,27 @@ An app designed to empower women and solo travelers in the UK to seek safe journ
 - **Advanced UI/UX design** for a polished app experience.
 
 ---
-## Benefits of the App in the UK travelling experience 
+## **Safety First Women Travelling Alone**
 
-This app is specifically designed to address the unique challenges faced by single women and solo travelers, providing tools to ensure safety, comfort, and peace of mind during journeys.
+### **Risk Reduction**
+Hotspot Crime Locator: Alerts users about high-crime areas, helping them avoid potentially unsafe neighborhoods.  
+Emergency Alarm: A quick and accessible feature to deter threats and notify emergency contacts.  
+Safe Zones Finder: Guides users to busy, well-lit areas, reducing exposure to isolated locations.  
+Reduced Wifi notifications: App allows user to become aware of locations with reduced WiFi reception such as industrial estates or countryside locations.  
 
-### **Safety First Women Travelling Alone Risk Reduction**
-- **Hotspot Crime Locator**: Alerts users about high-crime areas, helping them avoid potentially unsafe neighborhoods.  
-- **Emergency Alarm**: A quick and accessible feature to deter threats and notify emergency contacts.  
-- **Safe Zones Finder**: Guides users to busy, well-lit areas, reducing exposure to isolated locations.
-- **Reduced Wifi notifications**: App allows user to become aware of locations with reduced WiFi reception such as industrial estates or countryside locations
-- **Freedom and Security Wrapped**:
+### **Freedom and Security Wrapped**
 Encourages independence by providing practical tools for navigation, route planning, and safe decision-making.  
-The "Go Home" feature ensures users always have a quick way to navigate back to a trusted location that includes real time updates informing you of any delays on Trains any crashes on the motorways ect.
-- **Checklist**:
-A pre-journey checklist equips users with essentials like a power bank and mobile data, preparing them for unexpected situations.
--  **Empowerment**
-  Designed to be lightweight and easy to use, making it perfect for travelers unfamiliar with their surroundings.  
-  Supports single women in navigating unfamiliar areas confidently without relying on others.
+The "Go Home" feature ensures users always have a quick way to navigate back to a trusted location that includes real time updates informing you of any delays on Trains any crashes on the motorways ect.  
+
+### **Checklist**
+A pre-journey checklist equips users with essentials like a power bank and mobile data, preparing them for unexpected situations.  
+
+### **Empowerment**
+Designed to be lightweight and easy to use, making it perfect for travelers unfamiliar with their surroundings.  
+Supports single women in navigating unfamiliar areas confidently without relying on others.
+
+
+
 
 ---
 
