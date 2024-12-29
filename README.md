@@ -32,30 +32,30 @@ An app design to Empower women to sekk safe journeys for women and solo traveler
 cd frontend
 npm install
 
-### **For the frontend:**
+# For the frontend:**
 cd frontend
 npm install
 
-### **For the backend:**
+# For the backend:**
 cd backend
 npm install
 
-### **Start the backend server:**
+# Start the backend server:**
 
 cd backend
 npm start
 
-### **Start the frontend:**
+# *Start the frontend:**
 bash
 Copy code
 cd frontend
 npm start
 
-### **Deployment
+# Deployment
 Backend: Hosted on [Heroku/Render/AWS].
 Frontend: [Google Play Store link (if applicable)].
 
-### **Future Enhancements**
+# Future Enhancements**
 Real-time alerts for high-crime areas.
 Integration of peak safety times.
 Advanced UI/UX design for a polished app experience.
