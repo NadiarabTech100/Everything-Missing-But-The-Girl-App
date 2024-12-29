@@ -1,6 +1,6 @@
 # Everything-Missing-But-The-Girl App
 
-An app designed to empower women and solo travelers in the UK to seek safe journeys.
+An app designed to empower women and solo travelers to travel safely a user-focused, scalable app 
 
 ---
 
