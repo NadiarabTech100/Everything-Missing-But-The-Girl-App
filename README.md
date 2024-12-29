@@ -7,7 +7,6 @@ An app designed to empower women and solo travelers to travel safely a user-focu
 </div>
 
 
-
 ---
 
 ## Features
