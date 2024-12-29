@@ -1,10 +1,12 @@
-# Everything-Missing-But-The-Girl App 
+# Everything Missing But The Girl App 
 
-## App Logo
+An app designed to empower women and solo travelers to travel safely a user-focused, scalable app  
 
-![App Logo](./assets/logo.png)
+<div align="center">
+  <img src="./assets/Logo.png" alt="App Logo" width="300" height="300">
+</div>
 
-An app designed to empower women and solo travelers to travel safely a user-focused, scalable app 
+
 
 ---
 
