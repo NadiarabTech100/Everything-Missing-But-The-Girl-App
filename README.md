@@ -21,7 +21,6 @@ An app design to Empower women to sekk safe journeys for women and solo traveler
   - Google Places API
 
 ---
-
 ## **Setup Instructions**
 
 1. **Clone the Repository**:
@@ -31,47 +30,39 @@ An app design to Empower women to sekk safe journeys for women and solo traveler
 
 ## **Install Dependencies:**
 
-For the frontend:
-bash
-
+# Install Dependencies:
 cd frontend
 npm install
-For the backend:
-bash
 
+### **For the frontend:**
+cd frontend
+npm install
+
+### **For the backend:**
 cd backend
 npm install
-Start the App:
 
-Start the backend server:
-bash
+### **Start the backend server:**
 
 cd backend
 npm start
-Start the frontend:
+
+### **Start the frontend:**
 bash
-
+Copy code
 cd frontend
 npm start
 
-
-Start the frontend:
-cd frontend
-npm start
-
-Deployment
+### **Deployment
 Backend: Hosted on [Heroku/Render/AWS].
 Frontend: [Google Play Store link (if applicable)].
-Contributors
-Your Name: Full-stack developer and project creator.
-Future Enhancements
+
+### **Future Enhancements**
 Real-time alerts for high-crime areas.
 Integration of peak safety times.
 Advanced UI/UX design for a polished app experience.
-yaml
 
 
----
 
 ### **Advice for Presenting the Project**
 1. **Focus on Usability:**
