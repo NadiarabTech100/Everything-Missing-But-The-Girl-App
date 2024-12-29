@@ -1,7 +1,10 @@
-# Everything-Missing-But-The-Girl-App
-An app design to Empower women to sekk safe journeys for women and solo travelers in the UK
+# Everything-Missing-But-The-Girl App
 
-## **Features**
+An app designed to empower women and solo travelers in the UK to seek safe journeys.
+
+---
+
+## Features
 
 - **Route Planning**: Plan routes to destinations with a "Go Home" feature for quick navigation.
 - **Emergency Alarm**: A loud alarm to deter threats, triggered by a button.
@@ -11,67 +14,90 @@ An app design to Empower women to sekk safe journeys for women and solo traveler
 
 ---
 
-## **Tech Stack**
+## Tech Stack
 
-- **Frontend**: React Native
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB Atlas
+- **Frontend**: React Native  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB Atlas  
 - **APIs**:
   - Google Maps API (for Danger Zones and Safe Zones Finder)
   - Google Places API
 
 ---
-## **Setup Instructions**
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/everything-missing-but-the-girl.git
-   cd everything-missing-but-the-girl
+## Setup Instructions
 
-# Install Dependencies:
-cd frontend
-npm install
+### **Install Dependencies**
 
-# For the frontend:**
-cd frontend
-npm install
+- **For the frontend**:  
+  - Run the following commands:
+    ```bash
+    cd frontend
+    npm install
+    ```
 
-# For the backend:**
-cd backend
-npm install
+- **For the backend**:  
+  - Run the following commands:
+    ```bash
+    cd backend
+    npm install
+    ```
 
-# Start the backend server:**
+---
 
-cd backend
-npm start
+### **Start the App**
 
-# *Start the frontend:**
-bash
-Copy code
-cd frontend
-npm start
+- **Start the backend server**:  
+  - Run the following commands:
+    ```bash
+    cd backend
+    npm start
+    ```
 
-# Deployment
-Backend: Hosted on [Heroku/Render/AWS].
-Frontend: [Google Play Store link (if applicable)].
+- **Start the frontend**:  
+  - Run the following commands:
+    ```bash
+    cd frontend
+    npm start
+    ```
 
-# Future Enhancements**
-Real-time alerts for high-crime areas.
-Integration of peak safety times.
-Advanced UI/UX design for a polished app experience.
+---
+
+## Deployment
+
+- **Backend**: Hosted on **Heroku/Render/AWS**.  
+- **Frontend**: [Google Play Store link (if applicable)].
+
+---
+
+## Future Enhancements
+
+- **Real-time alerts for high-crime areas.**  
+- **Integration of peak safety times.**  
+- **Advanced UI/UX design** for a polished app experience.
+
+---
+## Benefits of the App in the UK travelling experience 
+
+This app is specifically designed to address the unique challenges faced by single women and solo travelers, providing tools to ensure safety, comfort, and peace of mind during journeys.
+
+### **Safety First Women Travelling Alone Risk Reduction**
+- **Hotspot Crime Locator**: Alerts users about high-crime areas, helping them avoid potentially unsafe neighborhoods.  
+- **Emergency Alarm**: A quick and accessible feature to deter threats and notify emergency contacts.  
+- **Safe Zones Finder**: Guides users to busy, well-lit areas, reducing exposure to isolated locations.
+- **Reduced Wifi notifications**: App allows user to become aware of locations with reduced WiFi reception such as industrial estates or countryside locations
+- **Freedom and Security Wrapped**:
+Encourages independence by providing practical tools for navigation, route planning, and safe decision-making.  
+The "Go Home" feature ensures users always have a quick way to navigate back to a trusted location that includes real time updates informing you of any delays on Trains any crashes on the motorways ect.
+- **Checklist**:
+A pre-journey checklist equips users with essentials like a power bank and mobile data, preparing them for unexpected situations.
+-  **Empowerment**
+  Designed to be lightweight and easy to use, making it perfect for travelers unfamiliar with their surroundings.  
+  Supports single women in navigating unfamiliar areas confidently without relying on others.
+
+---
 
 
-
-### **Advice for Presenting the Project**
-1. **Focus on Usability:**
-   - Employers value projects that are functional and solve real problems.
-   - Emphasize how each feature contributes to user safety.
-
-2. **Highlight Simplicity and Scalability:**
-   - Explain how the current MVP can be scaled in the future (e.g., adding real-time data or advanced alerts).
-
-3. **Showcase Your Learning Journey:**
-   - Document your process in the README or a presentation (e.g., why you chose specific tools and how you overcame challenges).
 
 
 
