@@ -28,8 +28,6 @@ An app design to Empower women to sekk safe journeys for women and solo traveler
    git clone https://github.com/yourusername/everything-missing-but-the-girl.git
    cd everything-missing-but-the-girl
 
-## **Install Dependencies:**
-
 # Install Dependencies:
 cd frontend
 npm install
