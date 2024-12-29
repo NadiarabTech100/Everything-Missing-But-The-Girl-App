@@ -11,11 +11,11 @@ An app designed to empower women and solo travelers to travel safely a user-focu
 
 ## Features
 
-- **Route Planning**: Plan routes to destinations with a "Go Home" feature for quick navigation.
-- **Emergency Alarm**: A loud alarm to deter threats, triggered by a button.
-- **Safety Guidance Page**: Pre-journey checklist and advice for safe travel.
+- **Emergency Alarm**: A loud alarm to deter threats, triggered by a button and notifies your emergency contact that you require assistance
 - **Danger Zone Mapping**: Displays static markers for high-crime areas.
-- **Safe Zones Finder**: Identifies nearby busy areas for safe waiting spots.
+- **Safe Zones Finder**: Identifies nearby areas that could be considered safe spots.
+- ** Locating Police Stations**: This feature helps to locate the nearest police station in case there is an issue.
+- **Safety Guidance Page**: Pre-journey checklist and advice for safe travel. 
 
 ---
 
