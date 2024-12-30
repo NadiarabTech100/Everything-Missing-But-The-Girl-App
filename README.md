@@ -9,11 +9,11 @@ An app designed to empower women and solo travelers to travel safely a user-focu
 
 ---
 
-## Key Highlights
+## Top Features
 
 - **Emergency Alarm**: A loud alarm to deter threats, that contacts emergency services and notifies your emergency contact of your exact location and that you require assistance 
-- **Danger Zone Mapping**: Displays on your map the locations of high-crime areas and less busy areas with low WiFi areas such as countryside or industrial estates where there is a higher chance of possiblity of crime taking place. 
-- **Transport Locations**: Locates buses and train stations in your vicinity.
+- **Danger Zone Mapping**: Displays on your map the locations of high-crime areas and less busy areas wthat would create unnecessary risk for female travellers alone such as motorway, countryside and industrial estates.
+- Go Home Feature: The app saves the users home address and provides a quick "Go Home" navigation option, this then creates the fastest route home even provides the mode of transport to use (bus, train or taxi)
 
 ---
 
@@ -160,12 +160,13 @@ Implementation: Use machine learning models to analyze historical data and predi
 Feature: Display the cost of each transport option (e.g., bus fare, train ticket, fuel costs) and suggest the cheapest or fastest option.
 How It Adds Depth: Helps users make informed decisions based on their budget or time constraints.
 Implementation: Fetch pricing data through APIs and integrate fare calculators for taxis or ride-sharing.
+- Location tracker: This feature creates a map log every 15-30 minutes of all the locations you have visited for your emergency contacts. That also sends real time updates to your emergency contact ysing GPS services.  
+
 
 ## Target Audience:
-- Solo female travellers from across the world.
-- Vulnerable and disabled female travellers
-- Environmentally conscious travelers.
-- People requiring accessibility-focused travel options.
+- Women and other vulnerable individuals prioritizing personal safety.
+- Solo travelers navigating unfamiliar areas.
+- Individuals seeking enhanced awareness of their surroundings during travel.
 
 
 
