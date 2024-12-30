@@ -9,11 +9,11 @@ An app designed to empower women and solo travelers to travel safely a user-focu
 
 ---
 
-## Key Features
+## Key Highlights
 
-- **Emergency Alarm**: A loud alarm to deter threats,that contacts emergnecy services and notifies your emergency contact of your exact location and that you require assistance 
+- **Emergency Alarm**: A loud alarm to deter threats, that contacts emergency services and notifies your emergency contact of your exact location and that you require assistance 
 - **Danger Zone Mapping**: Displays on your map the locations of high-crime areas and less busy areas with low WiFi areas such as countryside or industrial estates where there is a higher chance of possiblity of crime taking place. 
-- **Transport Locations **: Locates buses and train stations in your vicinity.
+- **Transport Locations**: Locates buses and train stations in your vicinity.
 
 ---
 
