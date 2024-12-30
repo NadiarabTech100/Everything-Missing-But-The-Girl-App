@@ -1,6 +1,6 @@
 # Everything Missing But The Girl App 
 
-An app designed to empower women and solo travelers to travel safely a user-focused, scalable app  
+An app designed to empower women travellers and to improve travel saftey
 
 <div align="center">
   <img src="./assets/Logo.png" alt="App Logo" width="300" height="300">
