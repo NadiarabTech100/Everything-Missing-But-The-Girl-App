@@ -112,8 +112,7 @@ An app designed to empower women and solo travelers to travel safely a user-focu
    - Avoiding isolated areas like industrial estates or alleys.
    - Wearing practical footwear like trainers for ease of travel.
 
-7. **Real-Time travel distruption to public transport services & Adverse weather conditons** (Upgrade)  
-   Informs users of immediate travel delays on trains and buses.
+7. **Real-Time travel distruption to public transport services & Adverse weather conditons** (Upgrade) Informs users of immediate travel delays on trains and buses.
   This also includes weather conditons preventing travellers from reaching their destinations and any road closures. 
 
 8. **Reduced WiFi Notification**  
