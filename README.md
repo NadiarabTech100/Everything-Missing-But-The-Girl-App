@@ -1,6 +1,6 @@
 # Everything Missing But The Girl App 
 
-An app designed to empower women travellers and to improve travel saftey
+An app designed to empower female travellers to diversify their travel plans and experience 
 
 <div align="center">
   <img src="./assets/Logo.png" alt="App Logo" width="300" height="300">
@@ -11,9 +11,10 @@ An app designed to empower women travellers and to improve travel saftey
 
 ## Top Features
 
-- **Emergency Alarm**: A loud alarm to deter threats, that contacts emergency services and notifies your emergency contact of your exact location and that you require assistance 
+- **Emergency Alarm**: A loud alarm to deter threats, that contacts emergency services and notifies your emergency contact of your exact location. 
 - **Danger Zone Mapping**: Displays on your map the locations of high-crime areas and less busy areas wthat would create unnecessary risk for female travellers alone such as motorway, countryside and industrial estates.
-- **Go Home Feature**: The app saves the users home address and provides a quick "Go Home" navigation option, this then creates the fastest route home even provides the mode of transport to use (bus, train or taxi)
+- **Go Home Feature**: The app literally takes you home it saves the day by devising the method for the fastest route home and even provides the mode of transport to use (bus, train or taxi) and any adverse weather and/or delays.
+- **Nav-Pal**: This tracks your every location and sends this data back to your next of kin or emergency contact so they have real time updates as to the users location at all times.This connects people and offers reassurance to friends and family this is a premium feature to this app. It requires precision location tracking capabilities. 
 
 ---
 
@@ -100,23 +101,24 @@ An app designed to empower women travellers and to improve travel saftey
 3. **Emergency Alarm**  
    A loud, accessible alarm to deter threats and notify emergency contacts through sms immediately of a possible threat to person or property. 
 
-4. **Police Station Locator** (Upgrade)  
-   Shows nearby police stations for immediate help during emergencies.
-
-5. **Bus and Train Finder** (Upgrade)  
+4. **Bus and Train Finder** (Upgrade)  
    Helps users locate the nearest public transportation options in cases where travellers are compeletley lost. 
 
-6. **Advice & Guidance for Solo Travelers** (Upgrade)  
+5. **Pre-travel advice** (Upgrade)  
    Provides tailored safety tips such as devices to have and general tips:
    - Packing essentials (e.g., power bank, mobile data).
    - Avoiding isolated areas like industrial estates or alleys.
    - Wearing practical footwear like trainers for ease of travel.
+   - Situational Awareness such as retracing your steps if required remebering landmarks
+   - Reporting crimes - Offering a list if non-emergency phone numbers for the police and transport services. This will encourage teaveller to report crimes increasing safety for all travellers.
 
-7. **Real-Time travel distruption to public transport services & Adverse weather conditons** (Upgrade) Informs users of immediate travel delays on trains and buses.
+6. **Real-Time travel distruption to public transport services & Adverse weather conditons** (Upgrade) Informs users of immediate travel delays on trains and buses.
   This also includes weather conditons preventing travellers from reaching their destinations and any road closures. 
 
-8. **Reduced WiFi Notification**  
-   Alerts users to areas with limited WiFi connectivity to enable better journey planning for the travller. 
+7. **Reduced WiFi Notification**  
+   Alerts users to areas with limited WiFi connectivity to enable better journey planning for the travller.
+
+8. **Language Support**: Offer multi-language support for international travellers. 
 
 
 
@@ -160,7 +162,8 @@ Implementation: Use machine learning models to analyze historical data and predi
 Feature: Display the cost of each transport option (e.g., bus fare, train ticket, fuel costs) and suggest the cheapest or fastest option.
 How It Adds Depth: Helps users make informed decisions based on their budget or time constraints.
 Implementation: Fetch pricing data through APIs and integrate fare calculators for taxis or ride-sharing.
-- Location tracker: This feature creates a map log every 15-30 minutes of all the locations you have visited for your emergency contacts. That also sends real time updates to your emergency contact ysing GPS services.  
+- Medical conditions- This feature will allow your mobile to display all your medical conditions.
+- Travel Buddy System: A community based approach to connect fellow travellers (requires passport or identification document upload to  ensure safety of travellers.  
 
 
 ## Target Audience:
