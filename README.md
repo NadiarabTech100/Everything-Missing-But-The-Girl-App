@@ -1,6 +1,6 @@
 # Everything Missing But The Girl App 
 
-An app designed to empower solo female travellers and enhance saftey and security
+An app designed to empower solo female travellers and enhance saftey and security to ensure that you can reach your destination. 
 
 <div align="center">
   <img src="./assets/Logo.png" alt="App Logo" width="300" height="300">
@@ -96,7 +96,7 @@ An app designed to empower solo female travellers and enhance saftey and securit
    Alerts users to high-crime areas and helps avoid unsafe neighborhoods and areas.
 
 2. **Safe Zone Finder**  
-   Identifies well-lit and busy public areas like cafes, malls, or train stations for safe waiting spots in case the traveller requires time to find their location. 
+   Identifies well-lit and busy public areas like cafes, malls, or train stations for safe waiting spots in case the traveller requires time to find their location.  
 
 3. **Emergency Alarm**  
    A loud, accessible alarm to deter threats and notify emergency contacts through sms immediately of a possible threat to person or property. 
@@ -143,7 +143,6 @@ Designed to be lightweight and easy to use, making it perfect for travelers unfa
 Supports single women in navigating unfamiliar areas confidently without relying on others.
 
 ## Future Enhancements
-- Real-time alerts for high-crime areas.
 - Offline Mode
 Feature: Allow users to download routes and schedules for offline use.
 How It Adds Depth: Makes the app usable even without internet access, which is crucial for rural areas or while traveling.
@@ -163,7 +162,8 @@ Feature: Display the cost of each transport option (e.g., bus fare, train ticket
 How It Adds Depth: Helps users make informed decisions based on their budget or time constraints.
 Implementation: Fetch pricing data through APIs and integrate fare calculators for taxis or ride-sharing.
 - Medical conditions- This feature will allow your mobile to display all your medical conditions.
-- Travel Buddy System: A community based approach to connect fellow travellers (requires passport or identification document upload to  ensure safety of travellers.  
+- Travel Buddy System: A community based approach to connect fellow travellers (requires passport or identification document upload to  ensure safety of travellers.
+- Multiple device compatibility: Compatible with smartwatches or fitness trackers to provide discrete SOS alerts
 
 
 ## Target Audience:
