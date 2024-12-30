@@ -13,7 +13,7 @@ An app designed to empower women and solo travelers to travel safely a user-focu
 
 - **Emergency Alarm**: A loud alarm to deter threats, that contacts emergency services and notifies your emergency contact of your exact location and that you require assistance 
 - **Danger Zone Mapping**: Displays on your map the locations of high-crime areas and less busy areas wthat would create unnecessary risk for female travellers alone such as motorway, countryside and industrial estates.
-- Go Home Feature: The app saves the users home address and provides a quick "Go Home" navigation option, this then creates the fastest route home even provides the mode of transport to use (bus, train or taxi)
+- **Go Home Feature**: The app saves the users home address and provides a quick "Go Home" navigation option, this then creates the fastest route home even provides the mode of transport to use (bus, train or taxi)
 
 ---
 
