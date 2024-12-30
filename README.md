@@ -9,7 +9,7 @@ An app designed to empower solo female travellers and enhance saftey and securit
 
 ---
 
-## Top Features
+## Highlights
 
 - **Emergency Alarm**: An alarm set of to deter threats, the app will contact the local emergency services and then notifies your emergency contact via sms sending your exact location. 
 - **Danger Zone Mapping**: Displays on a map the locations of all the high crime areas. The app also maps out more isolated areas with fewer pedestians therefore making them unsafe. As an added bonus the app also includes areas with poor reception and Wi-Fi. 
@@ -123,7 +123,7 @@ An app designed to empower solo female travellers and enhance saftey and securit
 
 
 ---
-## **Safety First Women Travelling Alone**
+## **Benefits for Female Solo Travellers**
 
 ### **Risk Reduction**
 Hotspot Crime Locator: Alerts users about high-crime areas, helping them avoid potentially unsafe neighborhoods.  
