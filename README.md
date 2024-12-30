@@ -1,6 +1,6 @@
 # Everything Missing But The Girl App 
 
-An app designed to empower female travellers to diversify their travel plans and experience 
+An app designed to empower solo female travellers and enhance saftey and security using technological advancement 
 
 <div align="center">
   <img src="./assets/Logo.png" alt="App Logo" width="300" height="300">
@@ -11,10 +11,10 @@ An app designed to empower female travellers to diversify their travel plans and
 
 ## Top Features
 
-- **Emergency Alarm**: A loud alarm to deter threats, that contacts emergency services and notifies your emergency contact of your exact location. 
-- **Danger Zone Mapping**: Displays on your map the locations of high-crime areas and less busy areas wthat would create unnecessary risk for female travellers alone such as motorway, countryside and industrial estates.
-- **Go Home Feature**: The app literally takes you home it saves the day by devising the method for the fastest route home and even provides the mode of transport to use (bus, train or taxi) and any adverse weather and/or delays.
-- **Nav-Pal**: This tracks your every location and sends this data back to your next of kin or emergency contact so they have real time updates as to the users location at all times.This connects people and offers reassurance to friends and family this is a premium feature to this app. It requires precision location tracking capabilities. 
+- **Emergency Alarm**: An alarm set of to deter threats, the app will contact the local emergency services and then notifies your emergency contact via sms sending your exact location. 
+- **Danger Zone Mapping**: Displays on a map the locations of all the high crime areas. The app also maps out more isolated areas with fewer pedestians therefore making them unsafe. As an added bonus the app also includes areas with poor reception and Wi-Fi. 
+- **Go Home Feature**: The app literally takes you home it plans a route using the fastest mode of transport to take you home. The app will lay out all the options bus, train or taxi and comment on any adverse weather and delays in the area that may prevent you reaching your destination. The app will also re-route if required to ensure the users saftey is the first priority. 
+- **Nav-Pal**: The app includes a Location Tracker that updates the user's live location every 30 minutes, ensuring real-time updates are sent to their pre-selected emergency contacts. This feature enhances safety by keeping trusted individuals informed about the user's whereabouts during their journey.
 
 ---
 
