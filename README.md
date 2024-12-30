@@ -11,9 +11,9 @@ An app designed to empower women and solo travelers to travel safely a user-focu
 
 ## Key Features
 
-- **Emergency Alarm**: A loud alarm to deter threats, triggered by a button and notifies your emergency contact that you require assistance
-- **Danger Zone Mapping**: Displays static markers for high-crime areas and low WiFi areas.
-- **Safety Guidance Page**: Pre-journey checklist and advice for safe travel. 
+- **Emergency Alarm**: A loud alarm to deter threats,that contacts emergnecy services and notifies your emergency contact of your exact location and that you require assistance 
+- **Danger Zone Mapping**: Displays on your map the locations of high-crime areas and less busy areas with low WiFi areas such as countryside or industrial estates where there is a higher chance of possiblity of crime taking place. 
+- **Transport Locations **: Locates buses and train stations in your vicinity.
 
 ---
 
@@ -143,8 +143,30 @@ Supports single women in navigating unfamiliar areas confidently without relying
 
 ## Future Enhancements
 - Real-time alerts for high-crime areas.
-- Integration of peak safety times.
-- Advanced UI/UX design for a polished app experience.
+- Offline Mode
+Feature: Allow users to download routes and schedules for offline use.
+How It Adds Depth: Makes the app usable even without internet access, which is crucial for rural areas or while traveling.
+Implementation: Cache data locally using SQLite or AsyncStorage in React Native.
+- Transport Accessibility Checker
+Feature:
+Highlight routes and transport options that are wheelchair accessible or suitable for people with disabilities.
+Include live updates on lifts and escalator outages.
+How It Adds Depth: Addresses a specific and often overlooked user group.
+Implementation: Use transport APIs that provide accessibility information and crowdsource updates.
+- Predictive Analytics
+Feature: Predict delays, traffic, or crowd levels based on historical data and current conditions.
+How It Adds Depth: Prepares users for potential issues before they arise, adding value through foresight.
+Implementation: Use machine learning models to analyze historical data and predict future trends.
+- Cost Comparison
+Feature: Display the cost of each transport option (e.g., bus fare, train ticket, fuel costs) and suggest the cheapest or fastest option.
+How It Adds Depth: Helps users make informed decisions based on their budget or time constraints.
+Implementation: Fetch pricing data through APIs and integrate fare calculators for taxis or ride-sharing.
+
+## Target Audience:
+- Solo female travellers from across the world.
+- Vulnerable and disabled female travellers
+- Environmentally conscious travelers.
+- People requiring accessibility-focused travel options.
 
 
 
